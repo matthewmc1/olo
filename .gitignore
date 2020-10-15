@@ -21,3 +21,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+tasks/tasks/src/main/resources/application.yaml
+tasks/tasks/mvnw
+tasks/tasks/.mvn/wrapper/*
+tasks/tasks/mvnw.cmd
